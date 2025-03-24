@@ -1,0 +1,71 @@
+##########################################################################################################################################################################################################################################################
+Результат сканирования вредоносного файла
+##########################################################################################################################################################################################################################################################
+Список вендоров и результат их сканирования:
+	Lionic                   	Trojan.Script.Obfuse.4!c
+	MicroWorld-eScan         	Trojan.Generic.37575014
+	ClamAV                   	Xls.Dropper.Agent-7398287-0
+	FireEye                  	Trojan.Generic.37575014
+	Sangfor                  	Trojan.Generic-Macro.Save.ec3db0ab
+	Symantec                 	Trojan.Gen.MBT
+	ESET-NOD32               	VBA/TrojanDropper.Agent.AXB
+	Avast                    	Other:Malware-gen [Trj]
+	Kaspersky                	UDS:DangerousObject.Multi.Generic
+	BitDefender              	Trojan.Generic.37575014
+	ViRobot                  	HTML.Z.Agent.48950
+	DrWeb                    	X97M.DownLoader.459
+	VIPRE                    	Trojan.Generic.37575014
+	Emsisoft                 	Trojan.Generic.37575014 (B)
+	GData                    	Trojan.Generic.37575014
+	Varist                   	ABTrojan.KOEJ-
+	Kingsoft                 	Win32.Infected.AutoInfector.a
+	Arcabit                  	Trojan.Generic.D23D5966
+	Microsoft                	Trojan:O97M/Obfuse.CP
+	Google                   	Detected
+	CTX                      	txt.trojan.obfuse
+	Ikarus                   	Trojan-Dropper.VBA.Agent
+	Fortinet                 	VBA/Agent.BCF0!tr
+	AVG                      	Other:Malware-gen [Trj]
+	alibabacloud             	Trojan[dropper]:MSOffice/Obfuse.CX
+##########################################################################################################################################################################################################################################################
+Список вендоров, которые обнаружили угрозу:
+	Lionic, MicroWorld-eScan, ClamAV, FireEye, Sangfor, Symantec, ESET-NOD32, Avast, Kaspersky, BitDefender, ViRobot, DrWeb, VIPRE, Emsisoft, GData, Varist, Kingsoft, Arcabit, Microsoft, Google, CTX, Ikarus, Fortinet, AVG, alibabacloud
+##########################################################################################################################################################################################################################################################
+Сравнение результатов с заданным списком антивирусов и песочниц:
+	Fortinet       	Обнаружил
+	McAfee         	Не обнаружил
+	Yandex         	Не обнаружил
+	Sophos         	Не обнаружил
+##########################################################################################################################################################################################################################################################
+Адреса и домены, с которыми контактирует вредоносный файл:
+	IP-адреса:
+		192.229.211.108
+	Домены:
+		fp2e7a.wpc.2be4.phicdn.net
+		fp2e7a.wpc.phicdn.net
+##########################################################################################################################################################################################################################################################
+Данные из песочницы о взаимодействии вредоносного файла с другими файлами (запись, удаление):
+	Written:
+		C:\Users\<USER>\AppData\Local\Temp\mkbc2ud1.gi5.ps1
+		C:\Users\<USER>\AppData\Local\Temp\r1lzzz5d.4ix.psm1
+		C:\Users\<USER>\AppData\Local\Temp\mkbc2ud1.gi5.ps1
+		C:\Users\user\AppData\Local\Microsoft\Windows\Caches
+		C:\Users\user\AppData\Local\Microsoft\Windows\PowerShell\StartupProfileData-NonInteractive
+		C:\Users\user\AppData\Local\Temp\__PSScriptPolicyTest_omzq0e2i.0p1.ps1
+		C:\Users\user\AppData\Local\Temp\__PSScriptPolicyTest_zkl2q0mi.zsr.psm1
+		C:\Users\user\AppData\Roaming
+		C:\Users\user\AppData\Roaming\Microsoft\Windows\Recent\CustomDestinations
+		C:\Users\user\AppData\Roaming\Microsoft\Windows\Recent\CustomDestinations\1GFIAJ6FONP2T3H0IHYP.temp
+		C:\Windows\system32\catroot
+		C:\Windows\system32\catroot2
+		\Device\ConDrv\\Connect
+	Deleted:
+		C:\Users\<USER>\AppData\Local\Temp\mkbc2ud1.gi5.ps1
+		C:\Users\<USER>\AppData\Local\Temp\r1lzzz5d.4ix.psm1
+		C:\Users\user\AppData\Local\Temp\__PSScriptPolicyTest_omzq0e2i.0p1.ps1
+		C:\Users\user\AppData\Local\Temp\__PSScriptPolicyTest_zkl2q0mi.zsr.psm1
+	Dropped:
+		C:\Users\<USER>\AppData\Local\Microsoft\Windows\PowerShell\StartupProfileData-NonInteractive
+		C:\Users\user\AppData\Local\Temp\__PSScriptPolicyTest_omzq0e2i.0p1.ps1
+		C:\Users\user\AppData\Local\Temp\__PSScriptPolicyTest_zkl2q0mi.zsr.psm1
+##########################################################################################################################################################################################################################################################
